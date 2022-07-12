@@ -2,4 +2,9 @@ this is First file
 Im making changes
 Again it is modified
 Next modification
+<<<<<<< HEAD
 LastbutoneModification
+=======
+Again i'm committing
+Now im committing
+>>>>>>> 0e6cc58c4f9fd4b08f5e60b37272afe50c97f1a6
